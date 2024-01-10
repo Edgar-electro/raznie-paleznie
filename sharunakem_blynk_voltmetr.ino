@@ -1,4 +1,4 @@
-
+// blik version 1.00
 #define BLYNK_TEMPLATE_ID "TMPL5vNHuGZXB"
 #define BLYNK_TEMPLATE_NAME "voltmetr"
 #define BLYNK_AUTH_TOKEN "jBciBWi3GH2H7cFRB7okiYcP7AuZEaeC"
